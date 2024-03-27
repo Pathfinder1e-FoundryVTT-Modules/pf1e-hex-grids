@@ -14,7 +14,7 @@
         "manifest": "https://gitlab.com/foundryvtt_pathfinder1e/foundryvtt-pathfinder1/-/releases/permalink/latest/downloads/system.json",
         "compatibility": {
           "minimum": "9.6",
-          "verified": "9.7"
+          "verified": "9.6"
         }
       }
     ]
